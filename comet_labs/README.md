@@ -26,6 +26,6 @@ Thanks goes to these wonderful people ✨:
 </table>
 
 # Glimpses of the Project:
-![app1](screenshots/app1.png)
-![app2](screenshots/app2.png)
-![app3](screenshots/app3.png)
+<img src="screenshots/app1.png" width="250" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="screenshots/app2.png" width="250" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="screenshots/app3.png" width="250" height="500"> &nbsp;&nbsp;&nbsp;
