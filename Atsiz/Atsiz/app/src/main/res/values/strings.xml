@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atsiz</string>
+    <string name="today">Today</string>
+    <string name="tabular">Tabular</string>
+    <string name="Description_2">Birthday Ceremony 05 : 00 PM to 07:00 PM</string>
+    <string name="Description_1">Study 09 : 00 AM to 10:00 AM</string>
+    <string name="Description_3">Teacher will come 09 : 00 PM to 10:00 PM</string>
+    <string name="today_s_schedule">Today\'s Schedule</string>
+</resources>
